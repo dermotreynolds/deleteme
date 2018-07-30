@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Basic CI/CD on Azure"
+title: "Publish A Very Basic App To GitHub"
 date: 2017-03-28
 ---
 
@@ -116,5 +116,3 @@ As a consistent naming convention we are going to call:
 - We can now see our files in GitHub
 
 <img src="/images/Add-Project-To-Git-08-01.png" alt="drawing" width="400px"/>
-
-
