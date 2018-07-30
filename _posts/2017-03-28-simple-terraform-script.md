@@ -53,4 +53,7 @@ As a consistent naming convention we are going to call:
 
 ## Create an Azure Resource Group & App Service
 
+- You can find resource group by searching the Marketplace
+
+<img src="/images/Create-Resource-Group-01.png" alt="drawing" width="400px"/>
 
