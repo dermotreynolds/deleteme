@@ -25,7 +25,7 @@ Before we get started you need to install some software and create some accounts
 As a consistent naming convention we are going to call:
 
 | Element | Name |
-| ------: | -----------: |
+| :------ | ----------- |
 | Resource Group   |TestWebAppRG |
 | App Service   |TestWebApp0101 |
 
