@@ -63,5 +63,5 @@ As a consistent naming convention we are going to call:
 
 - Give the Resource Group a name of __TestWebAppRG__
 
-<img src="/images/Create-Resource-Group-02-01.png" alt="drawing" width="400px"/>
+<img src="/images/Create-Resource-Group-03-01.png" alt="drawing" width="400px"/>
 
