@@ -10,7 +10,6 @@ The purpose of this series is to walk through how to create a CI/CD pipeline usi
 - Azure
 - Terraform
 
----
 ## Install software and create accounts
 
 Before we get started you need to install some software and create some accounts:
@@ -34,9 +33,8 @@ As a consistent naming convention we are going to call:
 
 
 
----
 
-## Step 1 Create GitHub Reponsitory__
+## Create GitHub Reponsitory__
 
 Login to your GitHub account which you created earlier.
 
