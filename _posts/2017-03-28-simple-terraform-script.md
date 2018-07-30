@@ -103,7 +103,7 @@ As a consistent naming convention we are going to call:
 
 - Select Sync
 
-<img src="/images/Add-Project-To-Git-03-01.png" alt="drawing" width="400px"/>
+<img src="/images/Add-Project-To-Git-05-01.png" alt="drawing" width="400px"/>
 
 - Select Publish to Git Repo
 
