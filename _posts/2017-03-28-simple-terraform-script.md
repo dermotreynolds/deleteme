@@ -65,3 +65,33 @@ As a consistent naming convention we are going to call:
 
 <img src="/images/Create-Resource-Group-03-01.png" alt="drawing" width="400px"/>
 
+## Create a basic Visual Studio Application
+
+- Create a new project
+
+<img src="/images/Create-VS-Project-01.png" alt="drawing" width="400px"/>
+
+- Create an ASP.NET Web Application
+
+<img src="/images/Create-VS-Project-02.png" alt="drawing" width="400px"/>
+
+- Leave it empty as we will add a basic HTML page to it
+
+<img src="/images/Create-VS-Project-03.png" alt="drawing" width="400px"/>
+
+- From Solution context menu select Add
+
+<img src="/images/Create-VS-Project-04.png" alt="drawing" width="400px"/>
+
+- Select HTML page
+
+<img src="/images/Create-VS-Project-05.png" alt="drawing" width="400px"/>
+
+- Name it index.html
+
+<img src="/images/Create-VS-Project-06.png" alt="drawing" width="400px"/>
+
+- Add Hello World to it
+
+<img src="/images/Create-VS-Project-07.png" alt="drawing" width="400px"/>
+
