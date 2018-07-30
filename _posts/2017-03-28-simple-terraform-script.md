@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Part 1: CI/CD on Azure"
+title: "Basic CI/CD on Azure"
 date: 2017-03-28
 ---
 
 The purpose of this series is to walk through how to create a CI/CD pipeline using:
-- Terraform
 - Visual Studio
 - Visual Studio Team Services
 - Azure
+- Terraform
 
 Before we get started you need to install some software and create some accounts:
 - Install Visual Studio Community Edition
@@ -23,6 +23,7 @@ Before we get started you need to install some software and create some accounts
  __[Terraform](https://www.terraform.io/downloads.html)__
 
 As a consistent naming convention we are going to call:
+
 | Element | Name |
 | ------ | ----------- |
 | Resource Group   |TestWebAppRG |
