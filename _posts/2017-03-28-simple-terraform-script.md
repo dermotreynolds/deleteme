@@ -11,7 +11,8 @@ The purpose of this series is to walk through how to create a CI/CD pipeline usi
 - Terraform
 
 ---
-##Install software and create accounts
+## Install software and create accounts
+
 Before we get started you need to install some software and create some accounts:
 - Install Visual Studio Community Edition
  __[Visual Studio](https://visualstudio.microsoft.com/vs/community/)__
