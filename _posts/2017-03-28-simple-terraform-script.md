@@ -5,8 +5,8 @@ date: 2017-03-28
 ---
 
 The purpose of this series is to walk through how to create a CI/CD using:
-	-  Visual Studio Team Services
-	-  Terraform
-	-  Visual Studio
+- Visual Studio Team Services
+- Terraform
+- Visual Studio
 
 
