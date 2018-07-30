@@ -11,15 +11,15 @@ The purpose of this series is to walk through how to create a CI/CD pipeline usi
 - Azure
 
 Before we get started:
- 1.	Install Visual Studio Community Edition
+- Install Visual Studio Community Edition
  __[Visual Studio](https://visualstudio.microsoft.com/vs/community/)__
-2.	Download Terraform
+- Download Terraform
  __[Terraform](https://www.terraform.io/downloads.html)__
-3.	Create a free account on Visual Studio Team Services
+- Create a free account on Visual Studio Team Services
  __[VSTS](https://visualstudio.microsoft.com/team-services/)__
-4. Create a free account on Azure 
+- Create a free account on Azure 
  __[Azure](https://azure.microsoft.com/en-us/)__
-5. Create a free account on GitHub
+- Create a free account on GitHub
  __[GITHUB](https://github.com/)__
 
 
