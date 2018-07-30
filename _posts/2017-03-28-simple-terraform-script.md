@@ -31,6 +31,6 @@ As a consistent naming convention we are going to call:
 
 __Step 1 Create GitHub Reponsitory__
 
-![Minion](/images/Create-GitHub-Repo-01.png =250x)
+![Minion](/images/Create-GitHub-Repo-01.png)
 
 
