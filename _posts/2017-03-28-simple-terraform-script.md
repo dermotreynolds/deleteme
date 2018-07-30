@@ -19,5 +19,7 @@ Before we get started:
  __[VSTS](https://visualstudio.microsoft.com/team-services/)__
 4. Create a free account on Azure 
  __[Azure](https://azure.microsoft.com/en-us/)__
+5. Create a free account on GitHub
+ __[GITHUB](https://github.com/)__
 
 
