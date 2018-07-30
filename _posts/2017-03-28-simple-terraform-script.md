@@ -79,11 +79,7 @@ As a consistent naming convention we are going to call:
 
 <img src="/images/Create-VS-Project-03.png" alt="drawing" width="400px"/>
 
-- From Solution context menu select Add
-
-<img src="/images/Create-VS-Project-04.png" alt="drawing" width="400px"/>
-
-- Select HTML page
+- From Solution context menu select Add and select HTML page
 
 <img src="/images/Create-VS-Project-05.png" alt="drawing" width="400px"/>
 
