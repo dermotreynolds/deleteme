@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
-title: Dermot Reynolds, Azure Solutions Architect
+title: Dermot Reynolds
+description: Azure Solutions Architect
 permalink: /blog/:year/:month/:day/:title
