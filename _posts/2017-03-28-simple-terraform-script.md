@@ -87,7 +87,7 @@ As a consistent naming convention we are going to call:
 
 <img src="/images/Create-VS-Project-06.png" alt="drawing" width="400px"/>
 
-- Add Hello World to it
+- Add "Hello World" to it
 
 <img src="/images/Create-VS-Project-07.png" alt="drawing" width="400px"/>
 
