@@ -32,8 +32,12 @@ As a consistent naming convention we are going to call:
 
 __Step 1 Create GitHub Reponsitory__
 
+Login to your GitHub account which you created earlier.
+Select the "+" at the top right hand side of GitHub.
 <img src="/images/Create-GitHub-Repo-01-01.png" alt="drawing" width="400px"/>
+Give the repository a name:
 <img src="/images/Create-GitHub-Repo-02-01.png" alt="drawing" width="400px"/>
+Make a note of the link as we will use this later:
 <img src="/images/Create-GitHub-Repo-03-01.png" alt="drawing" width="400px"/>
 
 
