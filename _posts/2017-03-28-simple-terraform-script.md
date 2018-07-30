@@ -34,7 +34,7 @@ As a consistent naming convention we are going to call:
 
 
 
-## Create GitHub Reponsitory__
+## Create a GitHub Reponsitory
 
 Login to your GitHub account which you created earlier.
 
