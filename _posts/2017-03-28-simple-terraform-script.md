@@ -29,8 +29,12 @@ As a consistent naming convention we are going to call:
 | Resource Group   |TestWebAppRG |
 | App Service   |TestWebApp0101 |
 
+
 __Step 1 Create GitHub Reponsitory__
 
 <img src="/images/Create-GitHub-Repo-01-01.png" alt="drawing" width="400px"/>
+<img src="/images/Create-GitHub-Repo-02-01.png" alt="drawing" width="400px"/>
+<img src="/images/Create-GitHub-Repo-03-01.png" alt="drawing" width="400px"/>
+
 
 
