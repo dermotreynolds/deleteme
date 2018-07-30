@@ -23,7 +23,9 @@ Before we get started you need to install some software and create some accounts
  __[Terraform](https://www.terraform.io/downloads.html)__
 
 As a consistent naming convention we are going to call:
-Our Resource Group (TestWebAppRG)
-Our App Service (TestWebApp0101)
+| Element | Name |
+| ------ | ----------- |
+| Resource Group   |TestWebAppRG |
+| App Service   |TestWebApp0101 |
 
 
