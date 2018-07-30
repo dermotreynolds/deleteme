@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Publish A Very Basic App To GitHub"
+title: "Azure Series: Publish A Very Basic App To GitHub"
 date: 2017-03-28
 ---
 

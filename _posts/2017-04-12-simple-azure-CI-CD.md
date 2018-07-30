@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Create a basic CI/CD Pipeline"
+title: "Azure Series: Create a basic CI/CD Pipeline"
 date: 2017-04-12
 ---
 
