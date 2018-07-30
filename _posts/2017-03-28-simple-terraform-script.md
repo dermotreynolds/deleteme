@@ -91,3 +91,30 @@ As a consistent naming convention we are going to call:
 
 <img src="/images/Create-VS-Project-07.png" alt="drawing" width="400px"/>
 
+## Lets push it to GitHub
+
+- Right click on your solution and select Commit
+
+<img src="/images/Add-Project-To-Git-01-01.png" alt="drawing" width="400px"/>
+
+- Enter a comment for this initial commit 
+
+<img src="/images/Add-Project-To-Git-02-01.png" alt="drawing" width="400px"/>
+
+- Select Sync
+
+<img src="/images/Add-Project-To-Git-03-01.png" alt="drawing" width="400px"/>
+
+- Select Publish to Git Repo
+
+<img src="/images/Add-Project-To-Git-06-01.png" alt="drawing" width="400px"/>
+
+- Enter the URL to the git repository collected erlier
+
+<img src="/images/Add-Project-To-Git-07-01.png" alt="drawing" width="400px"/>
+
+- We can now see our files in GitHub
+
+<img src="/images/Add-Project-To-Git-08-01.png" alt="drawing" width="400px"/>
+
+
