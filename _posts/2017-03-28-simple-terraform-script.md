@@ -29,4 +29,8 @@ As a consistent naming convention we are going to call:
 | Resource Group   |TestWebAppRG |
 | App Service   |TestWebApp0101 |
 
+__Step 1 Create GitHub Reponsitory
+
+![Minion](/images/Create-GitHub-Repo-03.png)
+
 
