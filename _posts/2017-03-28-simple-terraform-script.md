@@ -9,4 +9,6 @@ The purpose of this series is to walk through how to create a CI/CD using:
 - Terraform
 - Visual Studio
 
+Version 1
+
 
