@@ -10,3 +10,7 @@ The purpose of this series is to walk through how to create a CI/CD pipeline usi
 - Azure
 - Terraform
 
+This uses the app that was published to GitHub as part of the Publish A Very Basic App To GitHub article.
+
+
+
