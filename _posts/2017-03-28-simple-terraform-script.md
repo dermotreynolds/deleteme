@@ -55,5 +55,13 @@ As a consistent naming convention we are going to call:
 
 - You can find resource group by searching the Marketplace
 
-<img src="/images/Create-Resource-Group-01.png" alt="drawing" width="400px"/>
+<img src="/images/Create-Resource-Group-01-01.png" alt="drawing" width="400px"/>
+
+- Select Resource group
+
+<img src="/images/Create-Resource-Group-02-01.png" alt="drawing" width="400px"/>
+
+- Give the Resource Group a name of __TestWebAppRG__
+
+<img src="/images/Create-Resource-Group-02-01.png" alt="drawing" width="400px"/>
 
