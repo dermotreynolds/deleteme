@@ -59,3 +59,7 @@ When you sign up for Visual Studio Team Services you are allocated a given amoun
 ![](/images/New-Windows-Build-Agent-06.png)
 
 To resolve this install Visual Studio Community on the host.
+
+- You can see what capabilities are installed on the build agent by going to the Capabilities link to the right hand side of the agent.
+
+![](/images/New-Windows-Build-Agent-07.png)
