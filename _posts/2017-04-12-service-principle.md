@@ -16,7 +16,7 @@ As per the official documentation:
    
 *-Use a certificate for authentication when executing an unattended script.*
 
-In summary, a Service Principle is an "Account" which you give certain access to.  In our case we gave this Service Principle access to the Resource Group that we created.
+In summary, a Service Principle is an "Account" which you assign certain access to.  In our case we gave this Service Principle access to the Resource Group that we created.
 
 ## Find the Service Principle Name
 - Under your project go to Project Settings/Service endpoints.
