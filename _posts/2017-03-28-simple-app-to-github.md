@@ -10,6 +10,9 @@ The purpose of this series is to walk through how to create a CI/CD pipeline usi
 - Azure
 - Terraform
 
+This article covers off installing software, creating accounts and uploading a very basic app to GitHub.
+We will build on this in later articles.
+
 ## Install software and create accounts
 
 Before we get started you need to install some software and create some accounts:
