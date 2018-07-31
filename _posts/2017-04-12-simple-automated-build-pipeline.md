@@ -55,3 +55,7 @@ This will trigger a build each time you update your GitHub repository.
 - We are given a link to the newly created build.
 
 <img src="/images/Setup-VSTS-Build-10-01.png" alt="drawing" width="400px"/>
+
+- Clicking on the link and selecting Logs we can see the progress.
+
+<img src="/images/See-VSTS-Build-01.png" alt="drawing" width="400px"/>
