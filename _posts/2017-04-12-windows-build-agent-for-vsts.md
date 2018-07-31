@@ -23,25 +23,23 @@ When you sign up for Visual Studio Team Services you are allocated a given amoun
 
 - Run the agent installation manually.
 
-    PS C:\agent> .\config.cmd
-    Connect:
-    Enter server URL > https://dermot-singlepane.visualstudio.com/
-    Enter authentication type (press enter for PAT) >
-    Enter personal access token > 
-    Connecting to server ...
-
-    >> Register Agent:
-
-    Enter agent pool (press enter for default) > Azure-Hosted-Agents
-    Enter agent name (press enter for vstsagentvm1) >
-    Scanning for tool capabilities.
-    Connecting to the server.
-    Successfully added the agent
-    Testing agent connection.
-    Enter work folder (press enter for _work) >
-    2018-07-31 11:24:44Z: Settings Saved.
-    Enter run agent as service? (Y/N) (press enter for N) > Y
-    Enter User account to use for the service (press enter for NT AUTHORITY\NETWORK SERVICE) >
+      PS C:\agent> .\config.cmd
+      Connect:
+      Enter server URL > https://dermot-singlepane.visualstudio.com/
+      Enter authentication type (press enter for PAT) >
+      Enter personal access token > 
+      Connecting to server ...
+      >> Register Agent:
+      Enter agent pool (press enter for default) > Azure-Hosted-Agents
+      Enter agent name (press enter for vstsagentvm1) >
+      Scanning for tool capabilities.
+      Connecting to the server.
+      Successfully added the agent
+      Testing agent connection.
+      Enter work folder (press enter for _work) >
+      2018-07-31 11:24:44Z: Settings Saved.
+      Enter run agent as service? (Y/N) (press enter for N) > Y
+      Enter User account to use for the service (press enter for NT AUTHORITY\NETWORK SERVICE) >
 
 ![](/images/New-Windows-Build-Agent-04.png)
 
@@ -51,11 +49,13 @@ When you sign up for Visual Studio Team Services you are allocated a given amoun
 
 - But it fails
 
-    Error 1
-    No agent found in pool Azure-Hosted-Agents which satisfies the specified demands:
-    msbuild
-    visualstudio
-    vstest
-    Agent.Version -gtVersion 2.115.0 
+      ## Error 1
+      No agent found in pool Azure-Hosted-Agents which satisfies the specified demands:
+      msbuild
+      visualstudio
+      vstest
+      Agent.Version -gtVersion 2.115.0 
 
-![](/images/New-Windows-Build-Agent-05.png)
+![](/images/New-Windows-Build-Agent-06.png)
+
+To resolve this install Visual Studio Community on the host.
