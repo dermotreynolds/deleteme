@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azure DevOps: Visual Studio Team Services Build Agent"
+title: "Azure DevOps: #3 Visual Studio Team Services Build Agent"
 date: 2017-03-28
 ---
 
@@ -62,4 +62,8 @@ To resolve this install Visual Studio Community on the host.
 
 - You can see what capabilities are installed on the build agent by going to the Capabilities link to the right hand side of the agent.
 
-![](/images/New-Windows-Build-Agent-07.png)
+![](/images/New-Windows-Build-Agent-08.png)
+
+- Rerun the build against the new agent
+
+![](/images/New-Windows-Build-Agent-08.png)
