@@ -10,9 +10,10 @@ The purpose of this series is to walk through how to create a CI/CD pipeline usi
 - Azure
 - Terraform
 
-This uses the app that was published to GitHub as part of the Publish A Very Basic App To GitHub article.
+This uses the release that created during *Create a basic automated build Pipeline* article.
 
-## 
+## Create a new project in Visual Studio Team Services
 
+- Create a new Project.
 
-
+<img src="/images/Setup-VSTS-Release-01-01.png" alt="drawing" width="400px"/>
