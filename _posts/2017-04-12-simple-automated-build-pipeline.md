@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azure DevOps: Create a basic automated build Pipeline"
+title: "Azure DevOps: #4 Create a basic automated build Pipeline"
 date: 2017-04-12
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azure DevOps: Create a basic automated release Pipeline"
+title: "Azure DevOps: #5 Create a basic automated release Pipeline"
 date: 2017-04-12
 ---
 

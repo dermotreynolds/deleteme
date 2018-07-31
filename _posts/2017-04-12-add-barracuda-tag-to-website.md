@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azure Security: Adding Barracuda scan against Azure App Service"
+title: "Azure Security: #7 Adding Barracuda scan against Azure App Service"
 date: 2017-03-28
 ---
 
