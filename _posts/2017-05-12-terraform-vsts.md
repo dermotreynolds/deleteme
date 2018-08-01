@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azure DevOps: #7 Terraform deployment via VSTS."
+title: "Azure DevOps: #8 Terraform deployment via VSTS."
 date: 2017-05-12
 ---
 
