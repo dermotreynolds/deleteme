@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azure DevOps: #7 Terraform deployment via command line."
+title: "Azure DevOps: #7 Terraform deployment via VSTS."
 date: 2017-05-12
 ---
 
@@ -24,17 +24,32 @@ terraform supports storing state in blob storage.
 
 For consistency lets push it to the GitHub repository TestWebTerraform.
 
-- Create a new blank release - we will add some steps later
+- Create a new Build
 
 ![](/images/New-IaC-Release-01.png)
 
-- Specify that it will run on our newly created Azure-Hosted-Agents
+- Connect it to our GitHub repository
 
 ![](/images/New-IaC-Release-02.png)
 
-- Add a new Terraform Task - you may need to add this to your VSTS.
+- Start with an empty process 
 
 ![](/images/New-IaC-Release-03.png)
+
+- Lets use our Azure-Hosted-Agents for performing this build
+
+![](/images/New-IaC-Release-04.png)
+
+
+- We are going to use a variable to hold the access key for our state blob container.  Lets set it.
+
+![](/images/New-IaC-Release-05.png)
+
+
+- Add a new Terraform Task to your Phase 1 - you may need to add this to your VSTS.
+
+![](/images/New-IaC-Release-06.png)
+
 
 - Configure this task as our terraform init.
 
@@ -43,23 +58,34 @@ You will note that we are passing a parameter into init.  This is set via an env
 The parameters are:
 init -backend-config="access_key=$(v_access_key)"
 
-![](/images/New-IaC-Release-04.png)
+![](/images/New-IaC-Release-07.png)
+
+
 
 - Create another task as our terraform plan
 
-![](/images/New-IaC-Release-05.png)
+![](/images/New-IaC-Release-08.png)
 
 - Create another task as our terraform apply
 
-![](/images/New-IaC-Release-06.png)
+      apply  -auto-approve 
 
-- Lets set that variable
+![](/images/New-IaC-Release-09.png)
 
-![](/images/New-IaC-Release-07.png)
+- Lets give it a meaningful name - BuildWebInfra - and save it
 
-- Lets attach the GitHub repo
+- Letw queue a new build
 
-![](/images/New-IaC-Release-08.png)
+![](/images/New-IaC-Release-10.png)
 
+- And look at the Logs
 
-Import-Module AzureRM
+![](/images/New-IaC-Release-11.png)
+
+- After a successful run we can take a look at the state file.
+
+This is equivalent to the state file which was stored on our filesystem when we ran from our command line.
+
+![](/images/New-IaC-Release-12.png)
+
+-  Great, all done!
