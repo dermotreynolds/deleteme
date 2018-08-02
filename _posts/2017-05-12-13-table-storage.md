@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "Azure DevOps: #13 Application Identity / Managed Service Identity"
+title: "Azure DevOps: #13 Table Storage"
 date: 2017-05-22
 ---
