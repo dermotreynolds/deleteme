@@ -45,7 +45,7 @@ Adding the *depends_on* fixes this.
     data "azurerm_azuread_service_principal" "function_app_service_principle" {
         display_name = "${var.organisation}${var.department}${var.environment}${var.project}"
 
-        depends_on = ["azurerm_function_app.wfbill_function_app"]
+        ==depends_on = ["azurerm_function_app.wfbill_function_app"]==
     }
 
     resource "azurerm_key_vault_access_policy" "wfbill_app_policy" {
