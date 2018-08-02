@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Azure DevOps: #7 Terraform deployment via command line."
-date: 2017-05-12
+date: 2017-05-01
 ---
 
 So far the provisioning of infrastructure was manual through the portal.

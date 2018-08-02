@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Azure DevOps: #5 Create a basic automated release Pipeline"
-date: 2017-04-12
+date: 2017-04-24
 ---
 
 The purpose of this series is to walk through how to create a CI/CD pipeline using:

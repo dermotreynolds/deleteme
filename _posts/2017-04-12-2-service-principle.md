@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Azure DevOps: #2 What is a Service Principle?"
-date: 2017-03-28
+date: 2017-04-12
 ---
 When we setup the release to Azure we needed to setup a Service endpoint which in turn setup a Service Principle.
 

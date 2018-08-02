@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Azure DevOps: #3 Visual Studio Team Services Build Agent"
-date: 2017-03-28
+date: 2017-04-13
 ---
 
 When you sign up for Visual Studio Team Services you are allocated a given amount of build/release hours for free.  After this you will have to either buy more or create your own Build Agent.

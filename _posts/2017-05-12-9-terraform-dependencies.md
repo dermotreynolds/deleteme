@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Azure DevOps: #9 Dealing with dependencies"
-date: 2017-05-12
+date: 2017-05-04
 ---
 
 You may have situations where you want to use the result or output of one resource in another resource.
